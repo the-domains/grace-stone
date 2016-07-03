@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-03T20:52:32.995Z'
+datePublished: '2016-07-03T20:58:22.682Z'
 sourcePath: _posts/2016-04-15-the-most-beautiful-mountains-in-the-world.md
 inFeed: true
 isBasedOnUrl: >-
@@ -18,15 +18,9 @@ keywords:
   - lava
   - teamwork
 related: []
-author:
-  - name: Andrew Villagomez
-    url: 'https://www.thrillist.com/authors/andrew-villagomez'
-    avatar: {}
-  - name: '@VeeTravels'
-    url: 'https://www.twitter.com/@VeeTravels'
-    avatar: {}
-dateModified: '2016-07-03T20:52:32.471Z'
-title: The Most Beautiful Mountains in the World
+author: []
+dateModified: '2016-07-03T20:57:53.460Z'
+title: ''
 app_links:
   - namespace: twitter
     type: iphone
@@ -37,9 +31,7 @@ publisher:
   domain: www.thrillist.com
   url: 'https://www.thrillist.com'
   favicon: 'https://www.thrillist.com/thrillist_favicon.png'
-description: >-
-  Because the odds are slim we'll ever strap on a pair of crampons and/or buy a
-  "Teamwork" Successories poster, we thought it'd be&hellip;
+description: ''
 inLanguage: en
 inNav: false
 starred: false
@@ -47,4 +39,6 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>The Most Beautiful Mountains in the World</h1><p>Because the odds are slim we'll ever strap on a pair of crampons and/or buy a "Teamwork" Successories poster, we thought it'd be&amp;hellip;</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1b496619db57b77afcb89aef920994ac6e50e5fe.jpg" /></article>
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2ae91a6d-40fc-495d-9341-c8025a18acfc.jpg)
+
+<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1b496619db57b77afcb89aef920994ac6e50e5fe.jpg" /><h1>Natural Stone Building and Landscaping Products Wholesaler </h1><p>Building Blocks, Pavers, Pool Coping, Wall Cladding and Capping, Sculptures, Fireplaces, Ornaments </p></article>
