@@ -1,4 +1,3 @@
-layout_spectrum: 0.06731896917335689
 typography_spectrum: 0.751047920435667
 color:
   brandStrength: 0.2264021944720298
@@ -6,9 +5,11 @@ color:
   saturation: 0.06416077679023147
   rhythmicContrast: 0.6156569537706673
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
+    - '#468966'
+    - '#FFF0A5'
+    - '#FFB03B'
+    - '#B64926'
+    - '#8E2800'
+layout_spectrum: 0.06731896917335689
 name: Grace Stone
+title: Natural Stone Building & Landscaping Products Supply
